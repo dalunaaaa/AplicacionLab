@@ -1,0 +1,14 @@
+#root { display: grid;
+    grid-template-rows: 58.5rem auto;
+    background-color: rgb(153, 134, 134);
+    width: 30rem;
+    margin: auto;
+    }
+
+.comp1{ 
+
+    grid-row: 1.0;
+    
+    
+    }
+

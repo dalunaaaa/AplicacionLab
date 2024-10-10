@@ -1,0 +1,24 @@
+.componente-1 {
+    border: 2px solid black;
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .imagen {
+    width: 80px;
+    height: 80px;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  
+  .componente-1 p {
+    margin-left: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+  
